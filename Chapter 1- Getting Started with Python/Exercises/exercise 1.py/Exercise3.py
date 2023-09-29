@@ -1,11 +1,9 @@
-print("Hello world")
-a, b, c=5, 6, 7
-print(a)
-print(b)
-print(c)
-a=("My name is Marwa")
-b=("Im currently studying in Bathspa university")
-c=("i love my major(CC)")
-print(a)
-print(b)
-print(c)
+from datetime import datetime 
+#datetime object containing current date and time
+now = datetime.now()
+print("now =", now)
+#dd/mm/YY H:M:S
+dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+print("date and time =", dt_string)
+
+
