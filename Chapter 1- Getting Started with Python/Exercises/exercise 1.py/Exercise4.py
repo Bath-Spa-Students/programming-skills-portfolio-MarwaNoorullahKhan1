@@ -1,0 +1,11 @@
+print("Hello world")
+a, b, c=5, 6, 7
+print(a)
+print(b)
+print(c)
+a=("My name is Marwa")
+b=("Im currently studying in Bathspa university")
+c=("i love my major(CC)")
+print(a)
+print(b)
+print(c)
