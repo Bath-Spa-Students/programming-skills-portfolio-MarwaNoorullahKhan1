@@ -1,5 +1,4 @@
-print 3.5.2 (default, Sep 10 2016, 8:21:44)
-[GCC 5.4.0 20160609]                                                                 
-print (sys.version)
-print("Version info.")
-print sys.version_info(major=3, minor=5, micro=2, releaselevel='final', serial=0) 
+import sys
+print(3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)])
+import platform
+print(platform.(3.10.11))
