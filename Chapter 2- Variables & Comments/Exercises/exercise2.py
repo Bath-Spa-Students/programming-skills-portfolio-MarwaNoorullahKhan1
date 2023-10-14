@@ -1,2 +1,2 @@
-print('Albert einstein once said, "A person who never made a mistake')
-('never tried anyting new')
+print('Vincint Vango once said, "Great things are done')
+(' by a series of small things brought together.')
