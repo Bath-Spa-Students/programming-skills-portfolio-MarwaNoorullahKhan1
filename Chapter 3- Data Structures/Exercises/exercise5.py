@@ -11,3 +11,4 @@ print()
 invitations.append("Aysa")
 #Adding the person that will be coming for invitation in invitation
 print("Welcome to my dinner party {}".format(invitation))
+
